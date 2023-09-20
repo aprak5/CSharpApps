@@ -1,0 +1,31 @@
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\factorsApp.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\factorsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\MidtermExamApp2.Properties.Resources.resources
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\factorsApp.csproj.GenerateResource.cache
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\factorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\MidtermExamApp2.exe
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\MidtermExamApp2.pdb
+C:\Users\Amit Prakash\source\repos\factorsApp\bin\Debug\MidtermExamApp2.exe.config
+C:\Users\Amit Prakash\source\repos\factorsApp\bin\Debug\MidtermExamApp2.exe
+C:\Users\Amit Prakash\source\repos\factorsApp\bin\Debug\MidtermExamApp2.pdb
+C:\Users\Amit Prakash\source\repos\factorsApp\obj\Debug\factorsApp.MainForm.resources
+C:\Users\amitp\source\repos\factorsApp\bin\Debug\MidtermExamApp2.exe.config
+C:\Users\amitp\source\repos\factorsApp\bin\Debug\MidtermExamApp2.exe
+C:\Users\amitp\source\repos\factorsApp\bin\Debug\MidtermExamApp2.pdb
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\factorsApp.csproj.AssemblyReference.cache
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\factorsApp.MainForm.resources
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\MidtermExamApp2.Properties.Resources.resources
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\factorsApp.csproj.GenerateResource.cache
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\factorsApp.csproj.CoreCompileInputs.cache
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\MidtermExamApp2.exe
+C:\Users\amitp\source\repos\factorsApp\obj\Debug\MidtermExamApp2.pdb
+C:\Users\amitp\git\BUS442Apps\FactorsApp\bin\Debug\MidtermExamApp2.exe.config
+C:\Users\amitp\git\BUS442Apps\FactorsApp\bin\Debug\MidtermExamApp2.exe
+C:\Users\amitp\git\BUS442Apps\FactorsApp\bin\Debug\MidtermExamApp2.pdb
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\FactorsApp.csproj.AssemblyReference.cache
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\FactorsApp.MainForm.resources
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\MidtermExamApp2.Properties.Resources.resources
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\FactorsApp.csproj.GenerateResource.cache
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\FactorsApp.csproj.CoreCompileInputs.cache
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\MidtermExamApp2.exe
+C:\Users\amitp\git\BUS442Apps\FactorsApp\obj\Debug\MidtermExamApp2.pdb

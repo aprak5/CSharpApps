@@ -1,0 +1,21 @@
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.exe.config
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.exe
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.pdb
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.Properties.Resources.resources
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.GenerateResource.cache
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.exe
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.pdb
+C:\Users\Amit Prakash\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\edu.ncsu.bus442.p2.viewcontroller.MainForm.resources
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.exe.config
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.exe
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\bin\Debug\CapitalCityPhotographyOrderForm.pdb
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.AssemblyReference.cache
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\edu.ncsu.bus442.p2.viewcontroller.MainForm.resources
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.Properties.Resources.resources
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.GenerateResource.cache
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.exe
+C:\Users\amitp\source\repos\CapitalCityPhotographyOrderForm\obj\Debug\CapitalCityPhotographyOrderForm.pdb

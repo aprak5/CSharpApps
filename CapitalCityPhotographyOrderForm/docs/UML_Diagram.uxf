@@ -1,0 +1,93 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>6</zoom_level><element><id>Relation</id><coordinates><x>570</x><y>480</y><w>18</w><h>54</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;12;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>234</y><w>126</w><h>240</h></coordinates><panel_attributes>lt=&lt;-
+m2=     0..1
+    - employee</panel_attributes><additional_attributes>190;380;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>204</x><y>138</y><w>18</w><h>72</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;12;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>642</x><y>222</y><w>48</w><h>312</h></coordinates><panel_attributes>lt=&lt;-
+m2=0..1
+-package</panel_attributes><additional_attributes>20;500;10;10</additional_attributes></element><element><id>UMLPackage</id><coordinates><x>420</x><y>408</y><w>300</w><h>186</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.model.order
+--
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>804</x><y>252</y><w>348</w><h>366</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.viewcontroller
+--
+bg=green
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>18</x><y>24</y><w>366</w><h>252</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.model.person
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>408</x><y>36</y><w>342</w><h>240</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.model.product
+--
+bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>96</x><y>84</y><w>240</w><h>60</h></coordinates><panel_attributes>Person
+--
+- firstName: string
+- middleInitial: char
+- lastName: string
+--
++ Person(firstName: string, middleInitial: char, lastName: string)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>198</y><w>288</w><h>42</h></coordinates><panel_attributes>Employee
+--
+- numSale: int
+--
++ Employee(firstName: string, middleInitial: char, lastName: string, numSale: int)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>456</x><y>186</y><w>210</w><h>42</h></coordinates><panel_attributes>Package
+--
+- type: string
+--
++ Package(type: string, numSale: int)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>432</x><y>522</y><w>258</w><h>48</h></coordinates><panel_attributes>PhotographyOrder
+--
+- quantity: int
+--
++ PhotograpyOrder(employee: Employee, quantity: int, package: Package)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>444</x><y>456</y><w>168</w><h>30</h></coordinates><panel_attributes>Order
+--
+--
++ Order(employee: Employee)
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>840</x><y>354</y><w>300</w><h>204</h></coordinates><panel_attributes>MainForm
+--
+--
+- packageTypeComboBox_Click(sender: object, e: EventArgs): void
+- packageTypeComboBox_Enter(sender: object, e: EventArgs): void
+- packageTypeComboBox_SelectedIndexChanged(sender: object, e: EventArgs): void
+- packageTypeComboBox_TextChanged(sender: object, e: EventArgs): void
+- employeeComboBox_Click(sender: object, e: EventArgs): void
+- employeeComboBox_Enter(sender: object, e: EventArgs): void
+- employeeComboBox_SelectedIndexChanged(sender: object, e: EventArgs): void
+- employeeComboBox_TextChanged(sender: object, e: EventArgs): void
+- quantityTextBox_Click(sender: object, e: EventArgs): void
+- quantityTextBox_Enter(sender: object, e: EventArgs): void
+- quantityTextBox_KeyPress(sender: object, e: KeyPressEventArgs): void
+- quantityTextBox_TextChanged(sender: object, e: EventArgs): void
+- addSalesButton_Click(sender: object, e: EventArgs): void
+- displaySalesButton_Click(sender: object, e: EventArgs): void
+- readFileButton_Click(sender: object, e: EventArgs): void
+- saveFileButton_Click(sender: object, e: EventArgs): void
+- exitButton_Click(sender: object, e: EventArgs): void
+- openFileDialog_FileOk(sender: object, e: CancelEventArgs): void
+- saveFileDialog_FileOk(sender: object, e: CancelEventArgs): void
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>684</x><y>534</y><w>168</w><h>36</h></coordinates><panel_attributes>lt=&lt;-
+m2=0..*     
+                                      - photographyOrders</panel_attributes><additional_attributes>260;40;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>846</x><y>294</y><w>264</w><h>30</h></coordinates><panel_attributes>MainFormController
+--
+--
+_ Main(): void_
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>456</x><y>78</y><w>210</w><h>42</h></coordinates><panel_attributes>Product
+--
+- numSale: int
+--
++Product(numSale: int)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>552</x><y>114</y><w>18</w><h>84</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;12;10;120</additional_attributes></element><element><id>UMLPackage</id><coordinates><x>0</x><y>6</y><w>762</w><h>630</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.model
+--
+bg=white
+layer=-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>30</x><y>330</y><w>348</w><h>108</h></coordinates><panel_attributes>edu.ncsu.bus442.p2.model.io
+--
+bg=#ffacdb</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>372</y><w>294</w><h>42</h></coordinates><panel_attributes>PhotographyOrderIO
+--
+--
+_- readPhotographyOrders(Stream readStream): List&lt;PhotographyOrder&gt;_
+_- writePhotographyOrders(Stream writeStream, List&lt;PhotographyOrder&gt; orders): void_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>222</y><w>210</w><h>144</h></coordinates><panel_attributes>lt=&lt;-
+m2=      0..*       
+                   - packages</panel_attributes><additional_attributes>330;220;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>234</y><w>672</w><h>240</h></coordinates><panel_attributes>lt=&lt;-
+m2=               0..*       
+                   - employees</panel_attributes><additional_attributes>1100;380;10;10</additional_attributes></element></diagram>

@@ -1,0 +1,11 @@
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\bin\Debug\MidtermExamApp2.exe.config
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\bin\Debug\MidtermExamApp2.exe
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\bin\Debug\MidtermExamApp2.pdb
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.MainForm.resources
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.Properties.Resources.resources
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.csproj.GenerateResource.cache
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.exe
+C:\Users\Amit Prakash\source\repos\MidtermExamApp2\obj\Debug\MidtermExamApp2.pdb

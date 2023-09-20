@@ -1,0 +1,11 @@
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\bin\Debug\LunchOrderCostCalcApp.exe.config
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\bin\Debug\LunchOrderCostCalcApp.exe
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\bin\Debug\LunchOrderCostCalcApp.pdb
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.LunchOrderCostCalcAppForm.resources
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.Properties.Resources.resources
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.csproj.GenerateResource.cache
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.exe
+C:\Users\Amit Prakash\source\repos\LunchOrderCostCalcApp\obj\Debug\LunchOrderCostCalcApp.pdb

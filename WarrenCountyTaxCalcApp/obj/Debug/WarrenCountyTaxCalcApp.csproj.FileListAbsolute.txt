@@ -1,0 +1,21 @@
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.exe.config
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.exe
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.pdb
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.Properties.Resources.resources
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.WarrenCountyTaxCalcAppForm.resources
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.GenerateResource.cache
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.exe
+C:\Users\Amit Prakash\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.pdb
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.exe.config
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.exe
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\bin\Debug\WarrenCountyTaxCalcApp.pdb
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.AssemblyReference.cache
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.Properties.Resources.resources
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.WarrenCountyTaxCalcAppForm.resources
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.GenerateResource.cache
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.exe
+C:\Users\amitp\source\repos\WarrenCountyTaxCalcApp\obj\Debug\WarrenCountyTaxCalcApp.pdb
