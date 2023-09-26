@@ -2,7 +2,7 @@
 
 ## Overview
 
-The five projects in this repository need the latest version of C# and Visual Studio to run.
+All projects help practice requirements analysis, UI/UX Design, Software Design, and MVC Design skils. The five projects in this repository need the latest version of C# and Visual Studio to run.
 
 - CapitalCityPhotographyOrderForm is a small-scale application to track the orders between different categories and employees. This app uses the MVC paradigm.
 - FactorsApp is a small-scale application developed as part of content creation as my time as a teaching assistant. This app lists all the factors for each number between two given numbers ,and the number with the most factors.
